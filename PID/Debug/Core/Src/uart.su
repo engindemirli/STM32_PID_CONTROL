@@ -1,0 +1,2 @@
+uart.c:10:6:HAL_UART_RxCpltCallback	24	static
+uart.c:67:6:Uart2_send_FFreq_Upid_Tim	8	static
